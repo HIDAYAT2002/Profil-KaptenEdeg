@@ -1,4 +1,3 @@
 # Profil-KaptenEdeg
-### Tunggu Ya Sedang Proses Pembuatan
-![img](profil.jpg)
+## Tunggu Ya Sedang Proses Pembuatan
 # TERIMAKASI
